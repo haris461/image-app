@@ -1,0 +1,9 @@
+
+transformers==4.41.2
+torch==2.3.0
+sounddevice==0.4.6
+scipy==1.13.1
+numpy==1.26.4
+openai-whisper==20231117
+Pillow==10.3.0
+pyttsx3==2.90
